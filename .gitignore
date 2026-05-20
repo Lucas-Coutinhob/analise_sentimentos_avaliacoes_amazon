@@ -1,0 +1,8 @@
+dados/*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env/
+.DS_Store
+Thumbs.db
+modelo/*.pkl

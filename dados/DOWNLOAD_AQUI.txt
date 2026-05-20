@@ -1,0 +1,14 @@
+Dataset: Avaliacoes em Portugues - Amazon e Mercado Livre
+Fonte: Kaggle
+Autor: Vitor Sampaio
+Link: https://www.kaggle.com/datasets/sampaiovitor/avaliaes-em-portugus-amazon-e-mercado-livre
+
+Instrucoes:
+1. Baixe os dois arquivos CSV do link acima
+2. Salve nesta pasta (dados/) com os nomes originais:
+   - am_scrape_final.csv (Amazon - ~10k reviews)
+   - ml_scrape_final.csv (Mercado Livre - ~60k reviews)
+3. Execute o notebook em notebooks/analise_sentimentos.ipynb
+
+Os checkpoints (df_checkpoint_*.csv e df_final_completo.csv) sao gerados
+automaticamente durante a execucao do notebook.
