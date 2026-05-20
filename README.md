@@ -149,6 +149,6 @@ jupyter notebook notebooks/analise_sentimentos.ipynb
 **Lucas Coutinho Boros**
 Cientista de Dados em Formação | Bacharelado em Ciência de Dados e IA - IESB
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Boros-blue?logo=linkedin)](https://www.linkedin.com/in/lucas-coutinho-boros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Boros-blue?logo=linkedin)]([https://www.linkedin.com/in/lucas-coutinho-boros](https://www.linkedin.com/in/datalucasboros/))
 [![GitHub](https://img.shields.io/badge/GitHub-Lucas--Coutinhob-black?logo=github)](https://github.com/Lucas-Coutinhob)
 📧 lucas.boros@live.com
