@@ -1,4 +1,4 @@
-# 📊 Análise de Sentimento - Avaliações Amazon & Mercado Livre (pt-BR)
+# Análise de Sentimento - Avaliações Amazon & Mercado Livre (pt-BR)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.3-150458?logo=pandas&logoColor=white)
