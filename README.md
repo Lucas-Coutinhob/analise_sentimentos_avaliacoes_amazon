@@ -45,6 +45,7 @@ Este projeto classifica automaticamente o sentimento de **+67 mil avaliações r
 ---
 
 ## Estrutura do Projeto
+```
 analise_sentimentos_avaliacoes_Amazon/
 ├── dados/
 │   ├── DOWNLOAD_AQUI.txt
@@ -70,7 +71,7 @@ analise_sentimentos_avaliacoes_Amazon/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## Pipeline Técnico
